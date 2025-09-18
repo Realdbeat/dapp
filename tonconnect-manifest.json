@@ -1,0 +1,19 @@
+{
+    "url": "https://dppas.rav.com.ng/",
+    "name": "My TON DApp",
+    "iconUrl": "https://dppas.rav.com.ng/Assets/rglcoin.png",
+    "termsOfUseUrl": "https://rav.com.ng/terms",
+    "privacyPolicyUrl": "https://rav.com.ng//privacy",
+    "wallets": [
+      {
+        "name": "Tonkeeper",
+        "universalLink": "https://app.tonkeeper.com/ton-connect",
+        "bridgeUrl": "https://bridge.tonapi.io/tonconnect"
+      },
+      {
+        "name": "MyTonWallet",
+        "universalLink": "https://mytonwallet.io/ton-connect",
+        "bridgeUrl": "https://mytonwallet.io/ton-connect-bridge"
+      }
+    ]
+  }

@@ -1,0 +1,786 @@
+[
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/hamster.jpg",
+        "name": "HamsterCombat",
+        "totaluser": "240.0mln",
+        "telegram": "52.2 mln",
+        "twiter": "12.0 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/tapswap.jpg",
+        "name": "TapSwap",
+        "totaluser": "65.2mln",
+        "telegram": "25.5 mln",
+        "twiter": "6.6 mln"
+    },
+    {
+        "image": "https://imgbly.com/ib/2m8B4E9jUV.jpg",
+        "name": "PixelTap by Pixelverse",
+        "totaluser": "50.0mln",
+        "telegram": "10.0 mln",
+        "twiter": "2.8 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/notcoin.jpg",
+        "name": "Notcoin",
+        "totaluser": "40.0mln",
+        "telegram": "8.7 mln",
+        "twiter": "1.8 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/blum.jpg",
+        "name": "Blum",
+        "totaluser": "30.0mln",
+        "telegram": "15.5 mln",
+        "twiter": "2.8 mln"
+    },
+    {
+        "image": "https://imgbly.com/ib/QA1vCxB3Zo.jpg",
+        "name": "CEX.IO",
+        "totaluser": "20.0mln",
+        "telegram": "4.7 mln",
+        "twiter": "1.8 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/dotcoin.jpg",
+        "name": "Dotcoin",
+        "totaluser": "17.0mln",
+        "telegram": "5.6 mln",
+        "twiter": "1.4 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/memefi.jpg",
+        "name": "MemeFi",
+        "totaluser": "16.2mln",
+        "telegram": "8.6 mln",
+        "twiter": "2.3 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/w-coin.jpg",
+        "name": "W-coin",
+        "totaluser": "16.0mln",
+        "telegram": "6.2 mln",
+        "twiter": "2.1 mln"
+    },
+    {
+        "image": "https://imgbly.com/ib/Kwi98OXRrg.jpg",
+        "name": "Time Farm",
+        "totaluser": "15.4mln",
+        "telegram": "5.1 mln",
+        "twiter": "1.3 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/8e107551382449b59fe0f2a888b39777.jpg",
+        "name": "Dogs",
+        "totaluser": "15.0mln",
+        "telegram": "5.5 mln",
+        "twiter": "90.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/yescoin.jpg",
+        "name": "YesCoin",
+        "totaluser": "11.0mln",
+        "telegram": "10.3 mln",
+        "twiter": "3.5 mln"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/a80d78ecbdb141a19790b58fab85c8f7.jpg",
+        "name": "Yescoin",
+        "totaluser": "9.0mln",
+        "telegram": "4.2 mln",
+        "twiter": "1.6 mln"
+    },
+    {
+        "image": "https://imgbly.com/ib/HGY4HVpjsI.jpg",
+        "name": "SEED App",
+        "totaluser": "8.5mln",
+        "telegram": "3.6 mln",
+        "twiter": "810.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/bbqcoin.jpg",
+        "name": "BBQCoin",
+        "totaluser": "8.1mln",
+        "telegram": "2.1 mln",
+        "twiter": "450.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/61b552cdabe14c7e90060d9b69769bdd.jpg",
+        "name": "Musk Empire",
+        "totaluser": "7.0mln",
+        "telegram": "2.4 mln",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/4f5d5b32311149f3b1a20edc08bb936f.jpg",
+        "name": "Memeland",
+        "totaluser": "7.0mln",
+        "telegram": "830.0 K",
+        "twiter": "210.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/wormfareslap.jpg",
+        "name": "Wormfare Slap",
+        "totaluser": "6.9mln",
+        "telegram": "2.7 mln",
+        "twiter": "680.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/4825fe8f760e466f8737871b3d7973c2.jpg",
+        "name": "Simple Coin",
+        "totaluser": "6.0mln",
+        "telegram": "2.4 mln",
+        "twiter": "690.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/F2s2p6UKxo.jpg",
+        "name": "SpinnerCoin",
+        "totaluser": "5.8mln",
+        "telegram": "2.8 mln",
+        "twiter": "500.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/c4461984df9d4e98b56536a156024524.jpg",
+        "name": "NotBoredPuppies",
+        "totaluser": "5.8mln",
+        "telegram": "2.2 mln",
+        "twiter": ""
+    },
+    {
+        "image": "https://imgbly.com/ib/70pIptWsiC.jpg",
+        "name": "Chain Game",
+        "totaluser": "5.8mln",
+        "telegram": "1.8 mln",
+        "twiter": "840.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/pocketfi.jpg",
+        "name": "PocketFi",
+        "totaluser": "5.6mln",
+        "telegram": "1.9 mln",
+        "twiter": "400.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/5eb1cd99afc645eaaddfef7486b9abb3.jpg",
+        "name": "Gemzcoin",
+        "totaluser": "5.0mln",
+        "telegram": "1.3 mln",
+        "twiter": "950.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/cubes.jpg",
+        "name": "Cubes",
+        "totaluser": "5.0mln",
+        "telegram": "570.0 K",
+        "twiter": "250.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/5016be6602da47fdb31fd015ca11f1b2.jpg",
+        "name": "PEPE Miner",
+        "totaluser": "5.0mln",
+        "telegram": "720.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://imgbly.com/ib/O8NgY2Qyp2.jpg",
+        "name": "CyberFinance",
+        "totaluser": "5.0mln",
+        "telegram": "1.9 mln",
+        "twiter": "820.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/bullrun.jpg",
+        "name": "Bull Run",
+        "totaluser": "4.8mln",
+        "telegram": "1.6 mln",
+        "twiter": "420.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/rocket.jpg",
+        "name": "Pocket Rocket Game",
+        "totaluser": "4.0mln",
+        "telegram": "1.6 mln",
+        "twiter": "320.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/5173f3d0baef4d1da2d5d51fc4e68857.jpg",
+        "name": "BunnyApp",
+        "totaluser": "4.0mln",
+        "telegram": "1.5 mln",
+        "twiter": "530.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/rocket.jpg",
+        "name": "Pocket Rocket Game",
+        "totaluser": "4.0mln",
+        "telegram": "1.6 mln",
+        "twiter": "320.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/5EMloUcoCs.jpg",
+        "name": "TapCoins",
+        "totaluser": "3.0mln",
+        "telegram": "2.6 mln",
+        "twiter": "500.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/6i2aHrGkh3.jpg",
+        "name": "FireCoin",
+        "totaluser": "2.6mln",
+        "telegram": "1.3 mln",
+        "twiter": "380.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/zDKylM94jf.jpg",
+        "name": "NOTMEME App",
+        "totaluser": "2.5mln",
+        "telegram": "1.2 mln",
+        "twiter": "270.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/d802785330284575af835511f31e939d.jpg",
+        "name": "CITY Holder Game ",
+        "totaluser": "2.5mln",
+        "telegram": "1.6 mln",
+        "twiter": "1.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/ee6ffba99b324a9f9c88440faeb961e6.jpg",
+        "name": "FastX",
+        "totaluser": "2.5mln",
+        "telegram": "770.0 K",
+        "twiter": "255.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/timecoin.jpg",
+        "name": "Timecoin",
+        "totaluser": "2.4mln",
+        "telegram": "1.0 mln",
+        "twiter": "260.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/V3ZqO5Y59g.jpg",
+        "name": "FirstFisher",
+        "totaluser": "2.2mln",
+        "telegram": "750.0 K",
+        "twiter": "220.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/E0gJsPlp5P.jpg",
+        "name": "BFDCoin",
+        "totaluser": "2.0mln",
+        "telegram": "1.1 mln",
+        "twiter": "280.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/GyQ175UHP0.jpg",
+        "name": "$MTK Clicker Mafia",
+        "totaluser": "2.0mln",
+        "telegram": "330.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/e9dd3eea55a746f4972df0e3bc9aaece.jpg",
+        "name": "OGCommunity",
+        "totaluser": "2.0mln",
+        "telegram": "550.0 K",
+        "twiter": "410.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/03346b206efb4d6c83c58dc144283895.jpg",
+        "name": "HEXN.IO ",
+        "totaluser": "2.0mln",
+        "telegram": "970.0 K",
+        "twiter": "210.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/fzY1gtCV4E.jpg",
+        "name": "Time TON ",
+        "totaluser": "1.9mln",
+        "telegram": "570.0 K",
+        "twiter": "180.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/92839b7ac47d41728fcbd4480cbea715.jpg",
+        "name": "BITRALL",
+        "totaluser": "1.6mln",
+        "telegram": "220.0 K",
+        "twiter": "55.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/NYBL5sbUoh.jpg",
+        "name": "YesCoin",
+        "totaluser": "1.5mln",
+        "telegram": "560.0 K",
+        "twiter": "145.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/b8ccc8148abb4f27bc8cdff64afa4cac.jpg",
+        "name": "HoldCoin",
+        "totaluser": "1.5mln",
+        "telegram": "2.1 mln",
+        "twiter": "360.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/f1229416b5854ef5bc6fbdb68ddd70c6.jpg",
+        "name": "CYBASE Farm ",
+        "totaluser": "1.3mln",
+        "telegram": "510.0 K",
+        "twiter": "250.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/f399db9fb6a549a4bcb52f9550f67d29.jpg",
+        "name": "Nothing",
+        "totaluser": "1.3mln",
+        "telegram": "520.0 K",
+        "twiter": "130.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/84d2b8c2b9104f4db62fe0748623c654.jpg",
+        "name": "Ponchiqs",
+        "totaluser": "1.2mln",
+        "telegram": "700.0 K",
+        "twiter": "190.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/EY27Zcmvo6.jpg",
+        "name": "CashCoin",
+        "totaluser": "1.1mln",
+        "telegram": "200.0 K",
+        "twiter": "110.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/xIUxua6FLZ.jpg",
+        "name": "MathCoin",
+        "totaluser": "1.1mln",
+        "telegram": "46.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://imgbly.com/ib/zA4OHrLiFB.jpg",
+        "name": "Oxygen Miner",
+        "totaluser": "1.1mln",
+        "telegram": "530.0 K",
+        "twiter": "50.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/b2c1afee13ae45de9b10f9219d12adc8.jpg",
+        "name": "Clayton Game",
+        "totaluser": "1.0mln",
+        "telegram": "680.0 K",
+        "twiter": "90.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/89d5fd0663ae4f8a82dafc9090c87a65.jpg",
+        "name": "Dragonz Land",
+        "totaluser": "1.0mln",
+        "telegram": "1.0 mln",
+        "twiter": "200.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/f5bdf5024e60488186283cb9994c876f.jpg",
+        "name": "Airdrop Hunter App",
+        "totaluser": "1.0mln",
+        "telegram": "800.0 K",
+        "twiter": "60.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/tSbtrSKt75.jpg",
+        "name": "Capybara",
+        "totaluser": "890.0K",
+        "telegram": "280.0 K",
+        "twiter": "210.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/IPx9aYj5Gv.jpg",
+        "name": "Fuel Mining",
+        "totaluser": "700.0K",
+        "telegram": "430.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://imgbly.com/ib/IVSMVlUBkJ.jpg",
+        "name": "DropHunter",
+        "totaluser": "700.0K",
+        "telegram": "240.0 K",
+        "twiter": "300.0"
+    },
+    {
+        "image": "https://imgbly.com/ib/eTlwDk38EA.jpg",
+        "name": "LimeCoin",
+        "totaluser": "670.0K",
+        "telegram": "77.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/359198f150b24bb2bb8dbdd3727b64cb.jpg",
+        "name": "Doginhood",
+        "totaluser": "620.0K",
+        "telegram": "",
+        "twiter": "85.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/39efed35a3c244e0b129aa27cd4fd4a1.jpg",
+        "name": "ToMarsCoin",
+        "totaluser": "600.0K",
+        "telegram": "200.0 K",
+        "twiter": "50.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/6a575d54f1744c8f83f26ad89fecb712.jpg",
+        "name": "MoonPlay",
+        "totaluser": "550.0K",
+        "telegram": "185.0 K",
+        "twiter": "120.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/CniceWzGqo.jpg",
+        "name": "Hamsterdam",
+        "totaluser": "500.0K",
+        "telegram": "90.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/5c8594fd9c68465c868da6aa3d208516.jpg",
+        "name": "Ton Potato",
+        "totaluser": "500.0K",
+        "telegram": "330.0 K",
+        "twiter": "1.2 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/z8wyc98FLz.jpg",
+        "name": "Dragon",
+        "totaluser": "490.0K",
+        "telegram": "170.0 K",
+        "twiter": "45.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/34cf7f37a368404a82f0ca6a6b6eb3ff.jpg",
+        "name": "PIGCoin",
+        "totaluser": "300.0K",
+        "telegram": "160.0 K",
+        "twiter": "40.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/WYftVpBkx7.jpg",
+        "name": "Catap",
+        "totaluser": "300.0K",
+        "telegram": "90.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/f12c9b10aea34923b368fcdacb4c193e.jpg",
+        "name": "LamboTap",
+        "totaluser": "300.0K",
+        "telegram": "420.0 K",
+        "twiter": "13.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/ae23e88be37e4bb7b49bfe5a349544b5.jpg",
+        "name": "Mappasaurus APP",
+        "totaluser": "300.0K",
+        "telegram": "140.0 K",
+        "twiter": "90.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/sPAb1dVrdy.jpg",
+        "name": "Scroo-G Game",
+        "totaluser": "135.0K",
+        "telegram": "38.0 K",
+        "twiter": "13.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/5VVUx1PwcS.jpg",
+        "name": "Bobak",
+        "totaluser": "135.0K",
+        "telegram": "48.0 K",
+        "twiter": "7.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/catizen.jpg",
+        "name": "Catizen",
+        "totaluser": "    25.2 mln    ",
+        "telegram": "4.8 mln    ",
+        "twiter": "1.8 mln    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/c3a978622963462cadd4d7c90eb5cc96.jpg",
+        "name": "Gamee",
+        "totaluser": "    9.5 mln    ",
+        "telegram": "3.1 mln    ",
+        "twiter": "580.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/OtY4lzNrz8.jpg",
+        "name": "Cat Gold Miner",
+        "totaluser": "    5.5 mln    ",
+        "telegram": "750.0 K    ",
+        "twiter": "190.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/pAFNJeKnei.jpg",
+        "name": "The Pixels",
+        "totaluser": "    5.2 mln    ",
+        "telegram": "60.0 K    ",
+        "twiter": "1.6 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/QEw6QLVEoB.jpg",
+        "name": "Bcoin 2048",
+        "totaluser": "    3.0 mln    ",
+        "telegram": "550.0 K    ",
+        "twiter": "175.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/1fa6149934534107a9d89ffee2249fa7.jpg",
+        "name": "BIRD",
+        "totaluser": "    1.8 mln    ",
+        "telegram": "575.0 K    ",
+        "twiter": "6.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/fa7f6809027648b0a4448bb679f24139.jpg",
+        "name": "Truecoin",
+        "totaluser": "    1.6 mln    ",
+        "telegram": "480.0 K    ",
+        "twiter": "245.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/6ce042d402934932b34c0f6d841a9ea2.jpg",
+        "name": "Sphynx",
+        "totaluser": "    1.0 mln    ",
+        "telegram": "160.0 K    ",
+        "twiter": "260.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/32f0c237f91e423ebabdcf5ad476e700.jpg",
+        "name": "Kolo",
+        "totaluser": "    800.0 K    ",
+        "telegram": "530.0 K    ",
+        "twiter": "50.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/hjvOVuIOzz.jpg",
+        "name": "MemeTD",
+        "totaluser": "    600.0 K    ",
+        "telegram": "130.0 K    ",
+        "twiter": "80.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/CPILuoEptM.jpg",
+        "name": "Hyper",
+        "totaluser": "    500.0 K    ",
+        "telegram": "70.0 K    ",
+        "twiter": ""
+    },
+    {
+        "image": "https://imgbly.com/ib/0fWqXzNyxD.jpg",
+        "name": "Mobiverse",
+        "totaluser": "    500.0 K    ",
+        "telegram": "100.0 K    ",
+        "twiter": "95.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/KtJJVg5z67.jpg",
+        "name": "Money Garden AI",
+        "totaluser": "    470.0 K    ",
+        "telegram": "160.0 K    ",
+        "twiter": "60.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/bN6828TOXA.jpg",
+        "name": "Coin Crypto Game",
+        "totaluser": "    390.0 K    ",
+        "telegram": "150.0 K    ",
+        "twiter": "95.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/d6oXeMVbl3.jpg",
+        "name": "BAKS TON GAME",
+        "totaluser": "    210.0 K    ",
+        "telegram": "115.0 K    ",
+        "twiter": "28.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/CFfQHBYl4V.jpg",
+        "name": "$FNOT Dice Game",
+        "totaluser": "    200.0 K    ",
+        "telegram": "75.0 K    ",
+        "twiter": "6.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/343ce748e1af4f7a9b2742d6bffb8883.jpg",
+        "name": "Catton",
+        "totaluser": "    180.0 K    ",
+        "telegram": "180.0 K    ",
+        "twiter": "100.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/649648ff71be4b0eaa672370e5505ae2.jpg",
+        "name": "MetaBoss",
+        "totaluser": "    100.0 K    ",
+        "telegram": "65.0 K    ",
+        "twiter": "42.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/pCtQP1fF3b.jpg",
+        "name": "Tapfantasy-ton",
+        "totaluser": "    100.0 K    ",
+        "telegram": "55.0 K    ",
+        "twiter": "250.0 K    "
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/7ab6d69e1a2b4a24bb0ed606e5cefe2b.jpg",
+        "name": "Jokecoin",
+        "totaluser": "    100.0 K    ",
+        "telegram": "190.0 K    ",
+        "twiter": "22.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/EAuHkSTREa.jpg",
+        "name": "Pig of Ton",
+        "totaluser": "    100.0 K    ",
+        "telegram": "30.0 K    ",
+        "twiter": "18.0 K    "
+    },
+    {
+        "image": "https://imgbly.com/ib/5vG7oNb0NZ.jpg",
+        "name": "Wallet",
+        "totaluser": "20.0 mln",
+        "telegram": "3.9 mln",
+        "twiter": "410.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/nearwallet.jpg",
+        "name": "NEAR Wallet",
+        "totaluser": "16.0 mln",
+        "telegram": "5.8 mln",
+        "twiter": "830.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/tffOJDYwZw.jpg",
+        "name": "Tonkeeper",
+        "totaluser": "10.0 mln",
+        "telegram": "3.7 mln",
+        "twiter": "410.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/holdwallet.jpg",
+        "name": "Hold Wallet",
+        "totaluser": "5.0 mln",
+        "telegram": "880.0 K",
+        "twiter": "435.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/RznHdIe7wn.jpg",
+        "name": "Vertus",
+        "totaluser": "5.0 mln",
+        "telegram": "2.5 mln",
+        "twiter": "780.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/b31a145d6d9a4b8994ff5b4e71ee9be8.jpg",
+        "name": "MDAO ZAVOD",
+        "totaluser": "3.2 mln",
+        "telegram": "150.0 K",
+        "twiter": "85.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/IWzrcsy1nl.jpg",
+        "name": "Wave Wallet",
+        "totaluser": "2.0 mln",
+        "telegram": "900.0 K",
+        "twiter": "285.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/GZhTvZFlrZ.jpg",
+        "name": "DeWallet",
+        "totaluser": "1.7 mln",
+        "telegram": "390.0 K",
+        "twiter": "3.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/treeminer.jpg",
+        "name": "TREE Miner",
+        "totaluser": "1.5 mln",
+        "telegram": "160.0 K",
+        "twiter": "100.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/pixel.jpg",
+        "name": "Pixel",
+        "totaluser": "1.1 mln",
+        "telegram": "550.0 K",
+        "twiter": "230.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/kOxPC4SKOP.jpg",
+        "name": "Fintopio",
+        "totaluser": "500.0 K",
+        "telegram": "1.1 mln",
+        "twiter": "1.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/YIaLfiAoTE.jpg",
+        "name": "HarvestMoonBot",
+        "totaluser": "400.0 K",
+        "telegram": "480.0 K",
+        "twiter": "200.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/9d7ca979d4e74e96b7b4c40eab1ff7af.jpg",
+        "name": "TonGifts",
+        "totaluser": "3.6 mln",
+        "telegram": "1.3 mln",
+        "twiter": "315.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/09a3b50ee1ed4e9886253ae04089ab53.jpg",
+        "name": "EPIC: Meme2Earn App",
+        "totaluser": "250.0 K",
+        "telegram": "70.0 K",
+        "twiter": "20.0 K"
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/655c83cba8724cf39d0945a746e84ad1.jpg",
+        "name": "TON Dating",
+        "totaluser": "100.0 K",
+        "telegram": "70.0 K",
+        "twiter": ""
+    },
+    {
+        "image": "https://s3.timeweb.cloud/44e04f9b-avacoin/production/apps/f2dd506ee1304b3dbeca016d938ac232.jpg",
+        "name": "Moons.so",
+        "totaluser": "100.0 K",
+        "telegram": "70.0 K",
+        "twiter": "70.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/U8P5uUr6KD.jpg",
+        "name": "JetTon Games",
+        "totaluser": "8.0 mln",
+        "telegram": "1.0 mln",
+        "twiter": "210.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/tjObpnGe6O.jpg",
+        "name": "TON Poker",
+        "totaluser": "2.0 mln",
+        "telegram": "1.0 mln",
+        "twiter": "100.0"
+    },
+    {
+        "image": "https://imgbly.com/ib/1fXVKQdQ8j.jpg",
+        "name": "Whale",
+        "totaluser": "1.2 mln",
+        "telegram": "1.1 mln",
+        "twiter": "340.0 K"
+    },
+    {
+        "image": "https://imgbly.com/ib/EgHemyJ4MU.jpg",
+        "name": "BetFury Cryptodrop",
+        "totaluser": "350.0 K",
+        "telegram": "290.0 K",
+        "twiter": "200.0 K"
+    }
+]

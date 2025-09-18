@@ -1,0 +1,12 @@
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^ref$ tes.php [L]
+RewriteRule ^referral$ /api/referral.php [L]
+RewriteRule ^saveimage$ /api/saveImage.php [L]
+RewriteRule ^referral/([A-Z_-]*)$ /api/referral.php?action=$1 [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+</IfModule>

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="stylesheet" href="/Assets/css/uicons-solid-rounded.css">
+    <link rel="stylesheet" href="/Assets/css/style.css?v0.1">
+    <script src="https://telegram.org/js/telegram-web-app.js?2"></script>
+    <script>
+        function setThemeClass() {
+            document.documentElement.className = Telegram.WebApp.colorScheme;
+        }
+
+        Telegram.WebApp.onEvent('themeChanged', setThemeClass);
+        setThemeClass();
+
+    </script>
+    </head>
+ <body class="" style="visibility: hidden;"> 
+    <div class="aniloader" id="aniloader">  
+          <div class="card">
+            <div class="loaderm">
+              <p>Loading</p>
+              <div class="words">
+                <span class="word">Matters</span>
+                <span class="word">Souls</span>
+                <span class="word">Spirit</span>
+                <span class="word">Religion</span>
+                <span class="word">Awaking</span>
+              </div>
+            </div>
+          </div>    
+    </div>  
+
+<div class="main-container">
+ 
+<!--Clicks Section-->
+<div class="clicks content" id="clicks">
+ <section class="rounded_top">
+<div class="heads">
+<!--User Info Section-->
+<div class="user">
+   <img class="user_img" id="user_img"  src="/Assets/coins.png" alt="">
+       <div class="user_c">
+        <div class="greeting">Hi</div>
+        <div class="user_name" id="user_name">User Names fstukfwqytwf  FTYWJQGH qFWYJ</div>
+       </div>
+</div>
+
+<!--App Infos-->
+<div class="appinfo">
+<img src="/Assets/coin.png">
+<span class="balance" id="coinbl"> 0</span>
+<span class="identity">RLG</span>
+</div>
+
+</div>
+</section>
+    <div class="clear"></div>
+    <!-- From Uiverse.io by Spacious74 --> 
+    <div class="dailybox"><!--Daily Box-->
+        <div class="box1"></div>
+        <div class="box2"></div>
+        <div class="box3" id="Quotes">
+            Life is about balance. 
+            Be kind, 
+            but don't allow people abuse you. 
+            Trust, 
+            but don't be deceived. 
+            Be content, 
+            but never stop improving yourself.
+         </div>
+         <div class="butbox">
+         <span class="fi  fi-sr-share " id="shareStatus">Share</span>
+         <span class="fi fi-sr-envelope-download" id="downloadStatus">Download</span>
+         <span class="fi fi-sr-replace" id="repostStatus">Repost</span>
+         </div>
+         </div><!--End Daily Box-->
+
+    <div class="main_clk" id="main_clk">
+    <!-- From Uiverse.io by Z4drus --> 
+    <div class="loader">
+    <div class="loader__inner">
+            <div class="mine">
+        <span id="progressPercentage">0</span>
+        <sup class="identity">RLG</sup>
+    </div>
+    </div>
+    <div class="loader__orbit">
+      <div class="loader__dot"></div>
+      <div class="loader__dot"></div>
+      <div class="loader__dot"></div>
+      <div class="loader__dot"></div>
+    </div>
+    </div>
+    <span id="status">*...</span>
+    <span id="countdown">*...</span>
+    </div>
+   <button id="checkInButton" class="button">Claim RLG</button>
+
+
+</div><!--End Clicks Section-->
+
+<!--Mini App LIsts-->
+<div class="miniapps content" id="miniapps"><!--Minapps-->
+    <div class="tab-container">
+        <div class="tab-buttons">
+            <button class="tab-button active" data-tab="app-library">App Library</button>
+            <button class="tab-button " data-tab="my-app">My App</button>
+        </div>
+        
+        <!-- My App Tab Content -->
+        <div class="tab-content" id="my-app-content">
+            <div class="my-app-content">
+                <div class="lists"><!--Minapps Lists-->
+                    <div class="listname">Recent Opened Apps</div>
+                    <div class="recentopen" id="recentopen"><!-- Recent Opened Apps-->
+                        <div class="empty">
+                            This is Recent Opened Apps is empty
+                        </div>
+                    </div><!-- End of Recent Opened Apps--> 
+                    <div class="listname">All My Apps</div>
+                    <div class="allmyapps" id="allmyapps"><!-- All My Apps-->
+                        <div class="empty">
+                            This is All My Apps is empty
+                        </div>
+                    </div><!-- End of All My Apps-->
+                </div><!--End Minapps Lists-->
+            </div>
+        </div>
+
+        <!-- App Library Tab Content -->
+        <div class="tab-content active" id="app-library-content">
+            <div class="library-content">
+                <div class="lists" id="lists"><!--Minapps Lists-->
+                    <div class="listname">Tranding Mini Apps</div>
+                    <div class="slidesbox" id="slidesboxmini"><!-- Start of Slides boxs--> 
+                    </div><!-- End of Slides boxs--> 
+                    <div class="listname">All Mini Apps</div>
+                </div><!--End Minapps Lists-->
+            </div>
+        </div>
+    </div>
+</div><!--End Minapps-->
+
+<!--News Section-->
+<div class="news content" id="news"><!--News-->
+
+  <div class="lists" id="lists"><!--News Lists-->
+    <div class="listname">Tranding News</div>
+    <div class="slidesbox" id="slidesboxnews"><!-- Start of Slides boxs--> 
+    </div><!-- End of Slides boxs--> 
+    <div class="listname">All News</div>
+
+<div class="news-box">
+            <img src="/Assets/hamster.jpg" alt="Image 1">
+        <div class="newsbody">
+          <div class="newsname">News</div>
+            <div class="newsdesc">This is News Shit Test app</div>
+            <div class="newbutt">
+              <button class="butt" id="openlink">Open</button>
+              <button class="butt" id="done">Done</button>
+            </div>
+        </div>
+</div>
+
+</div><!--End News Lists-->
+</div><!--End News-->
+
+<!--Task Section-->
+<div class="tasks content" id="tasks"><!--Tasks-->
+
+    <div class="tasks-box"> <!--Referral Info-->
+<div class="referral-info">
+    <button class="butt refer-btn" id="createReferLink">
+        <span class="fi fi-sr-link">Create Referral</span>
+    </button>
+    <div class="refer-stats">
+        <span id="totalReferrals">0</span>
+        <span class="identity">Referrals</span>
+    </div>
+</div> </div>
+
+    <div class="tasks-box" id="task_join_group">
+        <img src="/Assets/telegram.png" alt="Telegram Group">
+        <div class="tasksbody">
+            <div class="tasksname">Join Main Group</div>
+            <div class="tasksdesc">Join our official Telegram group to earn 50 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_001" data-reward="50" data-link="https://t.me/naijacrytoupated">Join Group</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_join_channel">
+        <img src="/Assets/telegram.png" alt="Telegram Channel">
+        <div class="tasksbody">
+            <div class="tasksname">Join News Channel</div>
+            <div class="tasksdesc">Subscribe to our news channel for 40 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_002" data-reward="40" data-link="https://t.me/naijacrytoupated">Join Channel</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_share_post">
+        <img src="/Assets/share.png" alt="Share Post">
+        <div class="tasksbody">
+            <div class="tasksname">Share Daily Post</div>
+            <div class="tasksdesc">Share today's post to earn 30 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_003" data-reward="30" data-link="https://t.me/share/url?url=daily_post">Share Post</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_invite_friends">
+        <img src="/Assets/invite.png" alt="Invite Friends">
+        <div class="tasksbody">
+            <div class="tasksname">Invite Friends</div>
+            <div class="tasksdesc">Invite 5 friends to earn 100 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_004" data-reward="100" data-link="https://t.me/share/url?url=invite_link">Invite</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_community">
+        <img src="/Assets/community.png" alt="Community">
+        <div class="tasksbody">
+            <div class="tasksname">Join Community Chat</div>
+            <div class="tasksdesc">Participate in community chat to earn 45 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_005" data-reward="45" data-link="https://t.me/naijacrytoupated">Join Chat</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_quiz">
+        <img src="/Assets/quiz.png" alt="Quiz">
+        <div class="tasksbody">
+            <div class="tasksname">Daily Quiz</div>
+            <div class="tasksdesc">Complete daily quiz to earn 60 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_006" data-reward="60" data-link="https://t.me/naijacrytoupated">Take Quiz</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_social">
+        <img src="/Assets/social.png" alt="Social">
+        <div class="tasksbody">
+            <div class="tasksname">Follow Social Media</div>
+            <div class="tasksdesc">Follow our social media for 35 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_007" data-reward="35" data-link="https://x.com/DonaAton">Follow</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_survey">
+        <img src="/Assets/survey.png" alt="Survey">
+        <div class="tasksbody">
+            <div class="tasksname">Complete Survey</div>
+            <div class="tasksdesc">Fill out our survey to earn 75 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_008" data-reward="75" data-link="https://t.me/naijacrytoupated">Start Survey</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_watch">
+        <img src="/Assets/video.png" alt="Watch">
+        <div class="tasksbody">
+            <div class="tasksname">Watch Tutorial</div>
+            <div class="tasksdesc">Watch our tutorial video for 25 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_009" data-reward="25" data-link="https://t.me/naijacrytoupated">Watch</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tasks-box" id="task_referral">
+        <img src="/Assets/referral.png" alt="Referral">
+        <div class="tasksbody">
+            <div class="tasksname">Create Referral</div>
+            <div class="tasksdesc">Create your referral link for 80 RGL coins!</div>
+            <div class="newbutt">
+                <button class="butt join-btn" data-taskid="task_010" data-reward="80" data-link="https://t.me/naijacrytoupated">Create</button>
+                <button class="butt verify-btn">Verify</button>
+            </div>
+        </div>
+    </div>
+
+</div><!--End Tasks-->
+
+
+<!--Wallet Section-->
+<div class="wallet-container content" id="wallsection">
+    <h1>Connect Your Ton Wallet</h1>
+    <button id="connectButton">Connect Wallet</button>
+    <div id="walletInfo" class="wallet-info hidden">
+      <p><strong>Address:</strong> <span id="walletAddress"></span></p>
+      <p><strong>Balance:</strong> <span id="walletBalance"></span> TON</p>
+    </div>
+
+    
+    <button id="toggleConsole" class="toggle-console">Toggle Console</button>
+  </div>
+<!--End Wallet Section-->
+
+
+<div class="nav">
+  <div class="radio-inputs">
+      <label class="radio">
+        <input data-page="home" type="radio" name="radio" checked="">
+        <span class="name"><span class="fi fi-sr-bank"></span><span class="ids">Home</span></span>
+      </label>
+
+      <label class="radio">
+        <input data-page="tasks"  type="radio" name="radio">
+        <span class="name"><span class="fi fi-sr-money-bills"></span><span class="ids"> Tasks</span></span>
+      </label>
+          
+      <label class="radio">
+        <input data-page="news"  type="radio" name="radio">
+        <span class="name"><span class="fi fi-sr-newspaper"></span><span class="ids"> News</span></span>
+      </label>
+    
+          
+      <label class="radio">
+        <input data-page="apps"  type="radio" name="radio">
+        <span class="name"><span class="fi fi-sr-apps"></span><span class="ids">Apps</span> </span>
+      </label>
+    
+      <label class="radio">
+        <input data-page="wallsection"  type="radio" name="radio">
+        <span class="name"><span class="fi fi-sr-wallet"></span><span class="ids">Wallet</span> </span>
+      </label>
+    </div>
+  </div> 
+</div>
+
+        <!--Other Jss-->
+        <script src="/Assets/Js/MainApp.js?v0.1i"></script>
+        <script src="/Assets/Js/AppFuns.js?v0.1"></script>
+        <script src="/Assets/Js/sliderClass.js"></script>
+        <script src="/Assets/Js/groupTask.js"></script>
+        <script src="/Assets/Js/referralSystem.js?v1.11"></script>
+        <!-- Add html2canvas library -->
+        <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+        <!-- Add status share script -->
+        <script src="/Assets/Js/statusShare.js?v1.11"></script>
+        <!-- Add miniapp manager script -->
+        <script src="/Assets/Js/miniappManager.js?v1.11"></script>
+
+
+        <!--TonConnet SDK-->
+        <script src="https://unpkg.com/@tonconnect/ui@latest/dist/tonconnect-ui.min.js"></script>
+
+         <script src="/Assets/Js/walletConnect.js"></script>
+        <!-- Referral System Modal -->
+        <div class="modal-overlay" id="modalOverlay"></div>
+        <div class="referral-modal" id="referralModal">
+            <div class="referral-modal-content">
+                <h3>Your Referral Link</h3>
+                <div class="referral-link" id="referralLink"></div>
+                <div class="referral-actions">
+                    <button class="copy-btn" id="copyLink">Copy Link</button>
+                    <button class="share-btn" id="shareLink">Share</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="customConsole" class="custom-console hidden">
+            <div id="consoleHeader" class="console-header">Drag Console</div>
+            <div id="consoleContent" class="console-content"></div>
+        </div>
+        
+    </body>
+</html>
+
