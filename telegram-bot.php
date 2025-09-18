@@ -1,7 +1,7 @@
 <?php
 
 // Configuration
-$botToken = '7976947553:AAGr5pENqwENJ8UxKdBQjPuZHXOMb0mWt8E'; // Replace with your Telegram bot token
+$botToken = ''; // Replace with your Telegram bot token
 $webhookUrl = 'https://dppas.rav.com.ng/telegram-bot.php'; // Replace with your webhook URL
 
 // Initialize Telegram API base URL
