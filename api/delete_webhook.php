@@ -1,7 +1,7 @@
 <?php
 
 // Replace with your bot token
-$botToken = "7895010071:AAGxNPs2Rk-4yRCJfzu5KMd2NQvzV6tOVqo";
+$botToken = "";
 $website = "https://api.telegram.org/bot" . $botToken;
 
 // Function to delete the webhook
